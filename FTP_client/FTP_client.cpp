@@ -160,12 +160,3 @@ void FTP_client::send_file()
 
 
 
-
-
-
-
-  //, void* not_used
-  //  FTP_client* client = static_cast<FTP_client*>(not_used);
-//  client->ui.status_window->setText("*** We read " + QString::number(nread) + "bytes from file\n");
-  // std::cout << std::string(file_path.toLocal8Bit().constData()).c_str();
-  //std::string(file_path.toLocal8Bit().constData()).c_str()
